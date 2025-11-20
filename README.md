@@ -45,7 +45,7 @@ docker stop redfish-mockup
 pytest tests/ -v
 ```   
 ## Структура проекта   
-```
+```   
 for_test_task/
 ├── client/
 │   ├── __init__.py
